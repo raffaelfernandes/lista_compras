@@ -1,2 +1,6 @@
 arroz
 feijão
+farinha
+tomate
+cebola
+pimentão
